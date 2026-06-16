@@ -206,3 +206,5 @@ GitHub: https://github.com/
 ## 📄 License
 
 This project is open-source and available for educational and learning purposes.
+
+<img width="639" height="584" alt="image" src="https://github.com/user-attachments/assets/28186ca6-70a4-45a0-8728-ff1f71c70e0e" />
