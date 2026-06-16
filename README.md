@@ -194,9 +194,7 @@ This concept is commonly used in:
 **Pranay Jadhao**
 
 Electronics & Telecommunication Engineer
-
 Aspiring Software & Embedded Systems Engineer
-
 LinkedIn: [www.linkedin.com/in/pranayjadhao](http://www.linkedin.com/in/pranayjadhao)
 
 GitHub: https://github.com/
